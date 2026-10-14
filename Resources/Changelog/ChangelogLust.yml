@@ -1556,3 +1556,12 @@
     message: Админ-призраки теперь тоже умеют нюхать
   id: 341
   url: https://github.com/makura-games/lust-station/pull/635
+- author: xaoc
+  time: '2026-10-14T18:13:46.0000000+00:00'
+  changes:
+  - type: Add
+    message: Система слепоты в шкафах и ящиках
+  id: 342
+  url: https://github.com/makura-games/lust-station/pull/644
+  media:
+  - url: https://github.com/user-attachments/assets/7f73a3c7-cda6-424b-b89e-2a95a5036f57
