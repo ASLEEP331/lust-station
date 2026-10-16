@@ -1597,3 +1597,10 @@
     message: Добавлен поиск по IC, OCC и должности в манифесте после конца раунда
   id: 344
   url: https://github.com/makura-games/lust-station/pull/640
+- author: Matizze & OVI
+  time: '2026-10-16T02:03:26.0000000+00:00'
+  changes:
+  - type: Add
+    message: Добавлена плюшевая игрушка Арианны Айр'нии-Вульфовны.
+  id: 345
+  url: https://github.com/makura-games/lust-station/pull/636
